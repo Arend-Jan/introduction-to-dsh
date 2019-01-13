@@ -7,6 +7,7 @@
 - _Installed:_ Curl
 - _Installed:_ Mosquitto (MQTT-client)
 - _Installed:_ Docker-CE
+- _Installed:_ docker-credential-helpers
 - _Installed:_ Git
 - _Installed:_ java SDK 8
 - _Installed:_ maven (mvn) 
